@@ -1,2 +1,4 @@
 # TinDog
-TinDog startup website
+TinDog startup website <br/>
+Tech used: HTML+CSS+Bootstrap <br/>
+
